@@ -1,17 +1,23 @@
+import { Header } from '@/components/layout/Header';
+import { Footer } from '@/components/layout/Footer';
+import { Hero } from '@/components/sections/Hero';
+import { Profile } from '@/components/sections/Profile';
+import { FightRecord } from '@/components/sections/FightRecord';
+import { SocialMedia } from '@/components/sections/SocialMedia';
+import { ContactForm } from '@/components/sections/ContactForm';
+
 export default function Home() {
   return (
-    <main className="min-h-screen bg-dark-900">
-      <div className="container mx-auto px-4 py-16 text-center">
-        <h1 className="text-6xl font-bold text-primary-500 mb-4">
-          マハー・リコピン
-        </h1>
-        <p className="text-2xl text-gray-300">
-          Maha Lycopene
-        </p>
-        <p className="mt-8 text-gray-400">
-          Website under construction...
-        </p>
-      </div>
-    </main>
+    <>
+      <Header />
+      <main className="min-h-screen bg-dark-900">
+        <Hero />
+        <Profile />
+        <FightRecord />
+        <SocialMedia />
+        <ContactForm />
+      </main>
+      <Footer />
+    </>
   );
 }
