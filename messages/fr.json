@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "Maha Lycopene - Combattant Professionnel",
-    "description": "Site officiel du combattant professionnel Maha Lycopene"
+    "title": "Maha Lycopene - Combattant",
+    "description": "Site officiel du combattant Maha Lycopene"
   },
   "navigation": {
     "home": "Accueil",
@@ -12,7 +12,7 @@
   },
   "hero": {
     "title": "Maha Lycopene",
-    "subtitle": "Combattant Professionnel",
+    "subtitle": "Combattant",
     "cta": "Me contacter"
   },
   "profile": {
@@ -26,7 +26,7 @@
     "fightingStyle": "Style de combat",
     "team": "Équipe/Salle",
     "bio": "Biographie",
-    "bioContent": "Maha Lycopene est un combattant professionnel connu pour ses frappes explosives et sa détermination sans faille. Avec des années d'entraînement dans plusieurs disciplines d'arts martiaux, Maha combine précision technique et puissance brute."
+    "bioContent": "Maha Lycopene est un combattant connu pour ses frappes explosives et sa détermination sans faille. Avec des années d'entraînement dans plusieurs disciplines d'arts martiaux, Maha combine précision technique et puissance brute."
   },
   "fightRecord": {
     "title": "Palmarès & Statistiques",

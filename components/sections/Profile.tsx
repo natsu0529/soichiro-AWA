@@ -2,6 +2,7 @@
 
 import { useTranslations } from 'next-intl';
 import { motion } from 'framer-motion';
+import Image from 'next/image';
 import { Card, CardContent, CardHeader, CardTitle } from '../ui/Card';
 
 export function Profile() {
@@ -40,15 +41,15 @@ export function Profile() {
             viewport={{ once: true }}
             transition={{ duration: 0.6 }}
           >
-            <Card className="h-full">
-              <div className="aspect-square bg-gradient-to-br from-primary-900/20 to-dark-700 rounded-lg flex items-center justify-center">
-                <div className="text-center text-gray-500">
-                  <svg className="w-32 h-32 mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
-                  </svg>
-                  <p className="text-sm">Fighter Image</p>
-                  <p className="text-xs mt-1">Place your image in public/images/fighter/</p>
-                </div>
+            <Card className="h-full overflow-hidden">
+              <div className="relative aspect-square">
+                <Image
+                  src="/images/fighter/profile.png"
+                  alt="Maha Lycopene"
+                  fill
+                  className="object-cover"
+                  priority
+                />
               </div>
             </Card>
           </motion.div>
