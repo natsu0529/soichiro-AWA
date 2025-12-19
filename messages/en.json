@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "title": "Maha Lycopene - Professional Fighter",
+    "description": "Official website of professional fighter Maha Lycopene"
+  },
+  "navigation": {
+    "home": "Home",
+    "profile": "Profile",
+    "record": "Fight Record",
+    "social": "Social",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Maha Lycopene",
+    "subtitle": "Professional Fighter",
+    "cta": "Get in Touch"
+  },
+  "profile": {
+    "title": "Fighter Profile",
+    "name": "Name",
+    "fighterName": "Maha Lycopene (マハー・リコピン)",
+    "age": "Age",
+    "height": "Height",
+    "weight": "Weight",
+    "weightClass": "Weight Class",
+    "fightingStyle": "Fighting Style",
+    "team": "Team/Gym",
+    "bio": "Biography",
+    "bioContent": "Maha Lycopene is a professional fighter known for explosive striking and relentless determination. With years of training in multiple martial arts disciplines, Maha combines technical precision with raw power to dominate the competition."
+  },
+  "fightRecord": {
+    "title": "Fight Record & Statistics",
+    "totalFights": "Total Fights",
+    "wins": "Wins",
+    "losses": "Losses",
+    "draws": "Draws",
+    "ko": "KO/TKO Wins",
+    "submission": "Submission Wins",
+    "decision": "Decision Wins",
+    "winRate": "Win Rate"
+  },
+  "social": {
+    "title": "Follow Me",
+    "subtitle": "Stay updated with my journey",
+    "twitter": "Follow on X (Twitter)",
+    "youtube": "Subscribe on YouTube",
+    "instagram": "Follow on Instagram"
+  },
+  "contact": {
+    "title": "Contact Me",
+    "subtitle": "For inquiries, sponsorships, or media requests",
+    "name": "Your Name",
+    "namePlaceholder": "Enter your name",
+    "email": "Your Email",
+    "emailPlaceholder": "Enter your email",
+    "message": "Message",
+    "messagePlaceholder": "Enter your message",
+    "submit": "Send Message",
+    "sending": "Sending...",
+    "success": "Thank you! Your message has been sent successfully.",
+    "error": "Something went wrong. Please try again.",
+    "nameRequired": "Name is required",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Please enter a valid email address",
+    "messageRequired": "Message is required",
+    "messageMin": "Message must be at least 10 characters",
+    "messageMax": "Message must not exceed 1000 characters"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "builtWith": "Built with Next.js"
+  }
+}

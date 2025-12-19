@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "title": "マハー・リコピン - プロ格闘家",
+    "description": "プロ格闘家マハー・リコピンの公式ウェブサイト"
+  },
+  "navigation": {
+    "home": "ホーム",
+    "profile": "プロフィール",
+    "record": "戦績",
+    "social": "SNS",
+    "contact": "お問い合わせ"
+  },
+  "hero": {
+    "title": "マハー・リコピン",
+    "subtitle": "プロ格闘家",
+    "cta": "お問い合わせ"
+  },
+  "profile": {
+    "title": "ファイタープロフィール",
+    "name": "名前",
+    "fighterName": "マハー・リコピン (Maha Lycopene)",
+    "age": "年齢",
+    "height": "身長",
+    "weight": "体重",
+    "weightClass": "階級",
+    "fightingStyle": "ファイティングスタイル",
+    "team": "所属ジム",
+    "bio": "経歴",
+    "bioContent": "マハー・リコピンは爆発的な打撃と不屈の精神力で知られるプロ格闘家です。複数の武道での長年のトレーニングを経て、技術的な精密さと圧倒的なパワーを組み合わせ、競技を支配しています。"
+  },
+  "fightRecord": {
+    "title": "戦績 & 統計",
+    "totalFights": "総試合数",
+    "wins": "勝利",
+    "losses": "敗北",
+    "draws": "引き分け",
+    "ko": "KO/TKO勝利",
+    "submission": "一本勝利",
+    "decision": "判定勝利",
+    "winRate": "勝率"
+  },
+  "social": {
+    "title": "フォローする",
+    "subtitle": "私の戦いをフォロー",
+    "twitter": "X (Twitter) でフォロー",
+    "youtube": "YouTube でチャンネル登録",
+    "instagram": "Instagram でフォロー"
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "subtitle": "お問い合わせ、スポンサーシップ、メディア取材のご依頼はこちら",
+    "name": "お名前",
+    "namePlaceholder": "お名前を入力してください",
+    "email": "メールアドレス",
+    "emailPlaceholder": "メールアドレスを入力してください",
+    "message": "メッセージ",
+    "messagePlaceholder": "メッセージを入力してください",
+    "submit": "送信する",
+    "sending": "送信中...",
+    "success": "ありがとうございます！メッセージが正常に送信されました。",
+    "error": "エラーが発生しました。もう一度お試しください。",
+    "nameRequired": "お名前は必須です",
+    "emailRequired": "メールアドレスは必須です",
+    "emailInvalid": "有効なメールアドレスを入力してください",
+    "messageRequired": "メッセージは必須です",
+    "messageMin": "メッセージは10文字以上である必要があります",
+    "messageMax": "メッセージは1000文字以内である必要があります"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "builtWith": "Built with Next.js"
+  }
+}
