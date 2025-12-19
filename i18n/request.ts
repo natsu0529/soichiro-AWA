@@ -16,8 +16,12 @@ export const localeNames: Record<Locale, string> = {
   ru: 'Русский',
 };
 
-export default getRequestConfig(async ({ locale }) => {
-  if (!locales.includes(locale as Locale)) notFound();
+export default getRequestConfig(async ({ requestLocale }) => {
+  let locale = await requestLocale;
+
+  if (!locale || !locales.includes(locale as Locale)) {
+    notFound();
+  }
 
   return {
     locale,
