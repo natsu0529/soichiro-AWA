@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "title": "Maha Lycopene - Luchador Profesional",
+    "description": "Sitio web oficial del luchador profesional Maha Lycopene"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "profile": "Perfil",
+    "record": "Récord de Peleas",
+    "social": "Redes Sociales",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Maha Lycopene",
+    "subtitle": "Luchador Profesional",
+    "cta": "Ponte en contacto"
+  },
+  "profile": {
+    "title": "Perfil del Luchador",
+    "name": "Nombre",
+    "fighterName": "Maha Lycopene (マハー・リコピン)",
+    "age": "Edad",
+    "height": "Altura",
+    "weight": "Peso",
+    "weightClass": "Categoría de peso",
+    "fightingStyle": "Estilo de lucha",
+    "team": "Equipo/Gimnasio",
+    "bio": "Biografía",
+    "bioContent": "Maha Lycopene es un luchador profesional conocido por golpes explosivos y determinación implacable. Con años de entrenamiento en múltiples disciplinas de artes marciales, Maha combina precisión técnica con poder bruto."
+  },
+  "fightRecord": {
+    "title": "Récord de Peleas & Estadísticas",
+    "totalFights": "Peleas totales",
+    "wins": "Victorias",
+    "losses": "Derrotas",
+    "draws": "Empates",
+    "ko": "Victorias por KO/TKO",
+    "submission": "Victorias por sumisión",
+    "decision": "Victorias por decisión",
+    "winRate": "Tasa de victoria"
+  },
+  "social": {
+    "title": "Sígueme",
+    "subtitle": "Mantente actualizado con mi trayectoria",
+    "twitter": "Seguir en X (Twitter)",
+    "youtube": "Suscribirse en YouTube",
+    "instagram": "Seguir en Instagram"
+  },
+  "contact": {
+    "title": "Contáctame",
+    "subtitle": "Para consultas, patrocinios o solicitudes de medios",
+    "name": "Tu nombre",
+    "namePlaceholder": "Ingresa tu nombre",
+    "email": "Tu email",
+    "emailPlaceholder": "Ingresa tu email",
+    "message": "Mensaje",
+    "messagePlaceholder": "Ingresa tu mensaje",
+    "submit": "Enviar mensaje",
+    "sending": "Enviando...",
+    "success": "¡Gracias! Tu mensaje ha sido enviado exitosamente.",
+    "error": "Algo salió mal. Por favor, inténtalo de nuevo.",
+    "nameRequired": "El nombre es obligatorio",
+    "emailRequired": "El email es obligatorio",
+    "emailInvalid": "Por favor ingresa un email válido",
+    "messageRequired": "El mensaje es obligatorio",
+    "messageMin": "El mensaje debe tener al menos 10 caracteres",
+    "messageMax": "El mensaje no debe exceder 1000 caracteres"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados",
+    "builtWith": "Creado con Next.js"
+  }
+}

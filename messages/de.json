@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "title": "Maha Lycopene - Professioneller Kämpfer",
+    "description": "Offizielle Website des professionellen Kämpfers Maha Lycopene"
+  },
+  "navigation": {
+    "home": "Startseite",
+    "profile": "Profil",
+    "record": "Kampfbilanz",
+    "social": "Soziale Medien",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Maha Lycopene",
+    "subtitle": "Professioneller Kämpfer",
+    "cta": "Kontakt aufnehmen"
+  },
+  "profile": {
+    "title": "Kämpferprofil",
+    "name": "Name",
+    "fighterName": "Maha Lycopene (マハー・リコピン)",
+    "age": "Alter",
+    "height": "Größe",
+    "weight": "Gewicht",
+    "weightClass": "Gewichtsklasse",
+    "fightingStyle": "Kampfstil",
+    "team": "Team/Fitnessstudio",
+    "bio": "Biografie",
+    "bioContent": "Maha Lycopene ist ein professioneller Kämpfer, bekannt für explosive Schläge und unermüdliche Entschlossenheit. Mit jahrelangem Training in mehreren Kampfsportdisziplinen kombiniert Maha technische Präzision mit roher Kraft."
+  },
+  "fightRecord": {
+    "title": "Kampfbilanz & Statistik",
+    "totalFights": "Gesamtkämpfe",
+    "wins": "Siege",
+    "losses": "Niederlagen",
+    "draws": "Unentschieden",
+    "ko": "KO/TKO Siege",
+    "submission": "Aufgabe Siege",
+    "decision": "Punktsieg",
+    "winRate": "Gewinnrate"
+  },
+  "social": {
+    "title": "Folge mir",
+    "subtitle": "Bleib auf dem Laufenden",
+    "twitter": "Auf X (Twitter) folgen",
+    "youtube": "Auf YouTube abonnieren",
+    "instagram": "Auf Instagram folgen"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Für Anfragen, Sponsoring oder Medienanfragen",
+    "name": "Ihr Name",
+    "namePlaceholder": "Namen eingeben",
+    "email": "Ihre E-Mail",
+    "emailPlaceholder": "E-Mail eingeben",
+    "message": "Nachricht",
+    "messagePlaceholder": "Nachricht eingeben",
+    "submit": "Nachricht senden",
+    "sending": "Wird gesendet...",
+    "success": "Vielen Dank! Ihre Nachricht wurde erfolgreich gesendet.",
+    "error": "Etwas ist schief gelaufen. Bitte versuchen Sie es erneut.",
+    "nameRequired": "Name ist erforderlich",
+    "emailRequired": "E-Mail ist erforderlich",
+    "emailInvalid": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+    "messageRequired": "Nachricht ist erforderlich",
+    "messageMin": "Nachricht muss mindestens 10 Zeichen lang sein",
+    "messageMax": "Nachricht darf nicht mehr als 1000 Zeichen enthalten"
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten",
+    "builtWith": "Erstellt mit Next.js"
+  }
+}

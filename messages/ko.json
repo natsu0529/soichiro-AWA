@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "title": "Maha Lycopene - 프로 격투가",
+    "description": "프로 격투가 Maha Lycopene 공식 웹사이트"
+  },
+  "navigation": {
+    "home": "홈",
+    "profile": "프로필",
+    "record": "전적",
+    "social": "소셜 미디어",
+    "contact": "문의"
+  },
+  "hero": {
+    "title": "Maha Lycopene",
+    "subtitle": "프로 격투가",
+    "cta": "문의하기"
+  },
+  "profile": {
+    "title": "격투가 프로필",
+    "name": "이름",
+    "fighterName": "Maha Lycopene (マハー・リコピン)",
+    "age": "나이",
+    "height": "신장",
+    "weight": "체중",
+    "weightClass": "체급",
+    "fightingStyle": "격투 스타일",
+    "team": "팀/체육관",
+    "bio": "약력",
+    "bioContent": "Maha Lycopene은 폭발적인 타격과 끊임없는 결의로 알려진 프로 격투가입니다. 여러 무술 분야에서의 수년간의 훈련을 통해, Maha는 기술적 정밀함과 강력한 파워를 결합합니다."
+  },
+  "fightRecord": {
+    "title": "전적 & 통계",
+    "totalFights": "총 경기 수",
+    "wins": "승리",
+    "losses": "패배",
+    "draws": "무승부",
+    "ko": "KO/TKO 승리",
+    "submission": "서브미션 승리",
+    "decision": "판정 승리",
+    "winRate": "승률"
+  },
+  "social": {
+    "title": "팔로우하기",
+    "subtitle": "내 여정을 함께하세요",
+    "twitter": "X (Twitter)에서 팔로우",
+    "youtube": "YouTube에서 구독",
+    "instagram": "Instagram에서 팔로우"
+  },
+  "contact": {
+    "title": "문의하기",
+    "subtitle": "문의, 후원 또는 미디어 요청",
+    "name": "이름",
+    "namePlaceholder": "이름을 입력하세요",
+    "email": "이메일",
+    "emailPlaceholder": "이메일을 입력하세요",
+    "message": "메시지",
+    "messagePlaceholder": "메시지를 입력하세요",
+    "submit": "메시지 보내기",
+    "sending": "전송 중...",
+    "success": "감사합니다! 메시지가 성공적으로 전송되었습니다.",
+    "error": "문제가 발생했습니다. 다시 시도해주세요.",
+    "nameRequired": "이름은 필수입니다",
+    "emailRequired": "이메일은 필수입니다",
+    "emailInvalid": "유효한 이메일 주소를 입력하세요",
+    "messageRequired": "메시지는 필수입니다",
+    "messageMin": "메시지는 최소 10자 이상이어야 합니다",
+    "messageMax": "메시지는 1000자를 초과할 수 없습니다"
+  },
+  "footer": {
+    "rights": "모든 권리 보유",
+    "builtWith": "Next.js로 제작"
+  }
+}

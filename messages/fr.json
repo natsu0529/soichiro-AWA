@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "title": "Maha Lycopene - Combattant Professionnel",
+    "description": "Site officiel du combattant professionnel Maha Lycopene"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "profile": "Profil",
+    "record": "Palmarès",
+    "social": "Réseaux sociaux",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Maha Lycopene",
+    "subtitle": "Combattant Professionnel",
+    "cta": "Me contacter"
+  },
+  "profile": {
+    "title": "Profil du Combattant",
+    "name": "Nom",
+    "fighterName": "Maha Lycopene (マハー・リコピン)",
+    "age": "Âge",
+    "height": "Taille",
+    "weight": "Poids",
+    "weightClass": "Catégorie de poids",
+    "fightingStyle": "Style de combat",
+    "team": "Équipe/Salle",
+    "bio": "Biographie",
+    "bioContent": "Maha Lycopene est un combattant professionnel connu pour ses frappes explosives et sa détermination sans faille. Avec des années d'entraînement dans plusieurs disciplines d'arts martiaux, Maha combine précision technique et puissance brute."
+  },
+  "fightRecord": {
+    "title": "Palmarès & Statistiques",
+    "totalFights": "Combats totaux",
+    "wins": "Victoires",
+    "losses": "Défaites",
+    "draws": "Nuls",
+    "ko": "Victoires par KO/TKO",
+    "submission": "Victoires par soumission",
+    "decision": "Victoires aux points",
+    "winRate": "Taux de victoire"
+  },
+  "social": {
+    "title": "Suivez-moi",
+    "subtitle": "Restez informé de mon parcours",
+    "twitter": "Suivre sur X (Twitter)",
+    "youtube": "S'abonner sur YouTube",
+    "instagram": "Suivre sur Instagram"
+  },
+  "contact": {
+    "title": "Me contacter",
+    "subtitle": "Pour toute demande, parrainage ou requête médiatique",
+    "name": "Votre nom",
+    "namePlaceholder": "Entrez votre nom",
+    "email": "Votre email",
+    "emailPlaceholder": "Entrez votre email",
+    "message": "Message",
+    "messagePlaceholder": "Entrez votre message",
+    "submit": "Envoyer le message",
+    "sending": "Envoi en cours...",
+    "success": "Merci! Votre message a été envoyé avec succès.",
+    "error": "Une erreur s'est produite. Veuillez réessayer.",
+    "nameRequired": "Le nom est requis",
+    "emailRequired": "L'email est requis",
+    "emailInvalid": "Veuillez entrer une adresse email valide",
+    "messageRequired": "Le message est requis",
+    "messageMin": "Le message doit contenir au moins 10 caractères",
+    "messageMax": "Le message ne doit pas dépasser 1000 caractères"
+  },
+  "footer": {
+    "rights": "Tous droits réservés",
+    "builtWith": "Créé avec Next.js"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "title": "Maha Lycopene - Combattente Professionista",
+    "description": "Sito ufficiale del combattente professionista Maha Lycopene"
+  },
+  "navigation": {
+    "home": "Home",
+    "profile": "Profilo",
+    "record": "Record di Combattimento",
+    "social": "Social",
+    "contact": "Contatto"
+  },
+  "hero": {
+    "title": "Maha Lycopene",
+    "subtitle": "Combattente Professionista",
+    "cta": "Mettiti in contatto"
+  },
+  "profile": {
+    "title": "Profilo del Combattente",
+    "name": "Nome",
+    "fighterName": "Maha Lycopene (マハー・リコピン)",
+    "age": "Età",
+    "height": "Altezza",
+    "weight": "Peso",
+    "weightClass": "Categoria di peso",
+    "fightingStyle": "Stile di combattimento",
+    "team": "Squadra/Palestra",
+    "bio": "Biografia",
+    "bioContent": "Maha Lycopene è un combattente professionista noto per colpi esplosivi e determinazione implacabile. Con anni di allenamento in diverse discipline di arti marziali, Maha combina precisione tecnica con potenza bruta."
+  },
+  "fightRecord": {
+    "title": "Record di Combattimento & Statistiche",
+    "totalFights": "Combattimenti totali",
+    "wins": "Vittorie",
+    "losses": "Sconfitte",
+    "draws": "Pareggi",
+    "ko": "Vittorie per KO/TKO",
+    "submission": "Vittorie per sottomissione",
+    "decision": "Vittorie ai punti",
+    "winRate": "Tasso di vittoria"
+  },
+  "social": {
+    "title": "Seguimi",
+    "subtitle": "Rimani aggiornato sul mio percorso",
+    "twitter": "Segui su X (Twitter)",
+    "youtube": "Iscriviti su YouTube",
+    "instagram": "Segui su Instagram"
+  },
+  "contact": {
+    "title": "Contattami",
+    "subtitle": "Per richieste, sponsorizzazioni o richieste dei media",
+    "name": "Il tuo nome",
+    "namePlaceholder": "Inserisci il tuo nome",
+    "email": "La tua email",
+    "emailPlaceholder": "Inserisci la tua email",
+    "message": "Messaggio",
+    "messagePlaceholder": "Inserisci il tuo messaggio",
+    "submit": "Invia messaggio",
+    "sending": "Invio in corso...",
+    "success": "Grazie! Il tuo messaggio è stato inviato con successo.",
+    "error": "Qualcosa è andato storto. Per favore riprova.",
+    "nameRequired": "Il nome è obbligatorio",
+    "emailRequired": "L'email è obbligatoria",
+    "emailInvalid": "Per favore inserisci un'email valida",
+    "messageRequired": "Il messaggio è obbligatorio",
+    "messageMin": "Il messaggio deve contenere almeno 10 caratteri",
+    "messageMax": "Il messaggio non deve superare 1000 caratteri"
+  },
+  "footer": {
+    "rights": "Tutti i diritti riservati",
+    "builtWith": "Creato con Next.js"
+  }
+}

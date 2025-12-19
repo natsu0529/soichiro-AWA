@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "title": "Maha Lycopene - 职业格斗家",
+    "description": "职业格斗家Maha Lycopene官方网站"
+  },
+  "navigation": {
+    "home": "首页",
+    "profile": "个人资料",
+    "record": "战绩",
+    "social": "社交媒体",
+    "contact": "联系方式"
+  },
+  "hero": {
+    "title": "Maha Lycopene",
+    "subtitle": "职业格斗家",
+    "cta": "联系我"
+  },
+  "profile": {
+    "title": "格斗家简介",
+    "name": "姓名",
+    "fighterName": "Maha Lycopene (マハー・リコピン)",
+    "age": "年龄",
+    "height": "身高",
+    "weight": "体重",
+    "weightClass": "量级",
+    "fightingStyle": "格斗风格",
+    "team": "团队/训练馆",
+    "bio": "个人简介",
+    "bioContent": "Maha Lycopene是一位以爆发性打击和不屈意志著称的职业格斗家。经过多年的多种武术训练，Maha将技术精准度与原始力量相结合。"
+  },
+  "fightRecord": {
+    "title": "战绩与统计",
+    "totalFights": "总比赛数",
+    "wins": "胜利",
+    "losses": "失败",
+    "draws": "平局",
+    "ko": "KO/TKO胜利",
+    "submission": "降服胜利",
+    "decision": "判定胜利",
+    "winRate": "胜率"
+  },
+  "social": {
+    "title": "关注我",
+    "subtitle": "了解我的最新动态",
+    "twitter": "在X (Twitter)上关注",
+    "youtube": "在YouTube上订阅",
+    "instagram": "在Instagram上关注"
+  },
+  "contact": {
+    "title": "联系我",
+    "subtitle": "商务合作、赞助或媒体咨询",
+    "name": "您的姓名",
+    "namePlaceholder": "输入您的姓名",
+    "email": "您的邮箱",
+    "emailPlaceholder": "输入您的邮箱",
+    "message": "留言",
+    "messagePlaceholder": "输入您的留言",
+    "submit": "发送消息",
+    "sending": "发送中...",
+    "success": "谢谢！您的消息已成功发送。",
+    "error": "出错了。请重试。",
+    "nameRequired": "姓名为必填项",
+    "emailRequired": "邮箱为必填项",
+    "emailInvalid": "请输入有效的邮箱地址",
+    "messageRequired": "留言为必填项",
+    "messageMin": "留言至少需要10个字符",
+    "messageMax": "留言不得超过1000个字符"
+  },
+  "footer": {
+    "rights": "版权所有",
+    "builtWith": "使用Next.js构建"
+  }
+}
