@@ -30,8 +30,8 @@ export function ContactForm() {
     setSubmitStatus(null);
 
     try {
-      // メールアドレスを設定（実際のメールアドレスに変更してください）
-      const recipientEmail = 'your-email@example.com';
+      // メールアドレスを設定
+      const recipientEmail = 'souichirokaru@icloud.com';
       const subject = `Contact Form: ${data.name}`;
       const body = `Name: ${data.name}\nEmail: ${data.email}\n\nMessage:\n${data.message}`;
 
