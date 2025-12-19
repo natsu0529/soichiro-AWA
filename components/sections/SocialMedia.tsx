@@ -29,7 +29,7 @@ export function SocialMedia() {
       name: 'Instagram',
       icon: FaInstagram,
       label: t('instagram'),
-      url: 'https://instagram.com/your-handle',
+      url: 'https://www.instagram.com/aichi.puroresu_doukoukai/',
       color: 'hover:bg-gradient-to-tr hover:from-purple-600 hover:to-pink-600',
       iconColor: 'text-pink-500',
     },

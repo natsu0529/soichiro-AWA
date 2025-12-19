@@ -30,20 +30,20 @@ export function ContactForm() {
     setSubmitStatus(null);
 
     try {
-      const response = await fetch('/api/contact', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify(data),
-      });
+      // メールアドレスを設定（実際のメールアドレスに変更してください）
+      const recipientEmail = 'your-email@example.com';
+      const subject = `Contact Form: ${data.name}`;
+      const body = `Name: ${data.name}\nEmail: ${data.email}\n\nMessage:\n${data.message}`;
 
-      if (response.ok) {
-        setSubmitStatus('success');
-        reset();
-      } else {
-        setSubmitStatus('error');
-      }
+      // mailto: URLを生成
+      const mailtoUrl = `mailto:${recipientEmail}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+
+      // メールクライアントを開く
+      window.location.href = mailtoUrl;
+
+      // 成功メッセージを表示
+      setSubmitStatus('success');
+      reset();
     } catch (error) {
       setSubmitStatus('error');
     } finally {
