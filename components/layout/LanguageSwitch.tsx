@@ -3,7 +3,7 @@
 import { useState, useTransition } from 'react';
 import { useLocale } from 'next-intl';
 import { useRouter, usePathname } from '@/navigation';
-import { locales, localeNames, type Locale } from '@/i18n';
+import { locales, localeNames, type Locale } from '@/i18n/request';
 
 export function LanguageSwitch() {
   const [isOpen, setIsOpen] = useState(false);
